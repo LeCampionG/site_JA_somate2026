@@ -2,6 +2,7 @@
 
 Site Quarto pour les journées annuelles du réseau SO-MATé, thème
 « le coût caché du libre et de l'open science ».
+ **URL site** : [https://lecampiong.github.io/site_JA_somate2026/](https://lecampiong.github.io/site_JA_somate2026/)
 
 ## Contenu du dépôt
 
