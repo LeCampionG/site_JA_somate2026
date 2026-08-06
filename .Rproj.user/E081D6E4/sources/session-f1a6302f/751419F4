@@ -3,7 +3,7 @@
     "path": "~/Projet_Passages/site_ja_somate_2026/somate-2026/infos-pratiques.qmd",
     "project_path": "infos-pratiques.qmd",
     "type": "quarto_markdown",
-    "hash": "646271818",
+    "hash": "0",
     "contents": "",
     "dirty": false,
     "created": 1786006035206.0,
@@ -16,11 +16,11 @@
         "scrollLine": "6"
     },
     "folds": "",
-    "lastKnownWriteTime": 1786020535,
+    "lastKnownWriteTime": 1786023549,
     "encoding": "UTF-8",
     "collab_server": "",
     "source_window": "",
-    "last_content_update": 1786020535414,
+    "last_content_update": 1786023549,
     "read_only": false,
     "read_only_alternatives": []
 }

@@ -9,7 +9,7 @@ project:
 website:
   title: "SO-MATé 2026"
   description: "7èmes journées annuelles du réseau SO-MATé"
-  site-url: "https://VOTRE-COMPTE.github.io/somate-2026/"
+  site-url: "https://lecampiong.github.io/site_JA_somate2026/"
   favicon: images/logo-somate.png
   navbar:
     logo: images/logo-somate.png
