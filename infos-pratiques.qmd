@@ -1,0 +1,68 @@
+---
+title: "Informations pratiques"
+pagetitle: "Informations pratiques — SO-MATé 2026"
+---
+
+[Venir, dormir, manger, poser une question (ou en latin : *Veni, pernocta, cena, roga*)]{.eyebrow}
+
+
+## Dates
+
+Les journées se tiendront les **jeudi 05 et vendredi 06 novembre 2026**, de 12h30 le premier
+jour pour l'acceuil des participant et le déjeuners jusqu'à 16h30 vendredi.
+
+## Lieu
+
+**IEP Bordeaux**\
+11 allée Ausone
+Domaine universitaire\
+33600 Pessac\
+
+[Venir à Sciences Po Bordeaux](https://www.openstreetmap.org/?mlat=44.798620&mlon=-0.615996#map=17/44.798620/-0.615996){target="_blank"}\
+
+## Accès
+
+**En tram** - Prendre la Ligne B direction Pessac centre. Descendre à l’arrêt Montaigne-Montesquieu. Sciences Po Bordeaux est sur votre droite, en traversant l’esplanade boisée à la sortie du tramway.
+
+**En bus** - Depuis la gare Bordeaux St Jean, prendre la liane 10 direction Beausoleil. Descendre à l’arrêt Montaigne-Montesquieu, Sciences Po Bordeaux se situe à une centaine de mètres de l’arrêt de bus. Pour y accéder : franchir la ligne de tramway. Le bâtiment se situe derrière une rangée d’arbres.
+
+**En vélo !!!** — Stationnement vélo disponible, présence d'arceaux.
+
+**En train** — Gare Saint-Jean, puis marcher jusqu'à la Victoire et prendre ligne tram B ou à la gare prendre liane 10 direction Beausoleil. Comptez bien 40/45 minutes depuis la gare.
+
+**En voiture** — De la Rocade A630/E05/E70, prendre la sortie 16 dir. Gradignan-centre/Talence-centre/Domaine universitaire. Suivre la direction Talence sur le cours de la Libération. Au 3e feu, tourner à gauche sur l’avenue Pey-Berland. Continuer sur l’avenue Pey-Berland (traversez la voie du tramway) jusqu’au rond-point où vous prendrez
+l’avenue Léon Duguit. Continuez sur 300 mètres : Sciences Po Bordeaux se trouve sur votre gauche. N'hésitez pas à covoiturer !
+
+
+::: {.callout-note title="Autres transports"}
+Désolé il n'y a pas d'héliport vous ne pourrez donc pas venir en hélicoptère.
+Pour d'autre options et des information plus exhaustive concernant les lignes du bus voici un lien vers [Moovit](https://moovitapp.com/index/fr/transport_en_commun-Sciences_Po_Sud_Ouest-Bordeaux-site_39768570-924){target="_blank"}
+:::
+
+
+## Hébergement
+
+Quelques établissements proches du lieu des journées :
+
+| Établissement | Distance | Indication de tarif |
+|---|---|---|
+| [Nom] | [X min à pied] | [XX €] |
+| [Nom] | [X min en tram] | [XX €] |
+| [Nom] | [X min à pied] | [XX €] |
+
+## Restauration
+
+Les déjeuners du jeudi et du vendredi sont pris en charge par le réseau. Merci de signaler si vous souhaitez y participer ainsi que tout régime alimentaire particulier au moment de l'inscription.
+
+Le jeudi  au soir sera également organisé un diner mais à la charge des participants, merci de préciser également si vous y participerez lors de l'inscription.
+
+## Prise en charge des frais de mission
+
+SO-MATé ne prendra en charge que les missions des intervenants. Les modalités de
+prise en charge des frais de déplacement et d'hébergement des participant sont à la charge de leur laboratoire d'appartenance.
+EN cas de problème de financement n'hésitez pas à contacter l'organisation à [coord-so-mate@groupes.renater.fr](mailto:coord-so-mate@groupes.renater.fr), nous ferons au mieux pour aider mais cela ne pourra se faire qu'au cas par cas.
+
+
+## Contact
+
+Une question sur l'organisation : [coord-so-mate@groupes.renater.fr](mailto:coord-so-mate@groupes.renater.fr)

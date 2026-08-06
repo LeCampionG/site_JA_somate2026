@@ -1,0 +1,253 @@
+/*-- scss:defaults --*/
+
+// Palette relevée directement sur l'affiche SO-MATE
+$so-orange:  #f08a2b;
+$so-red:     #e1503f;
+$so-blue:    #2e5c9e;
+$so-cyan:    #45b7e5;
+$so-green:   #a8c63c;
+$so-ink:     #2e3338;
+$so-slate:   #6f7780;
+$so-mist:    #e9ebec;
+$so-paper:   #ffffff;
+
+$primary:    $so-blue;
+$body-color: $so-ink;
+$body-bg:    $so-paper;
+$link-color: $so-blue;
+
+$font-family-sans-serif: "Barlow", -apple-system, "Segoe UI", sans-serif;
+$headings-font-family:   "Barlow Condensed", "Barlow", sans-serif;
+$font-size-root:         17px;
+$headings-font-weight:   600;
+
+$navbar-bg: $so-paper;
+$navbar-fg: $so-ink;
+$navbar-hl: $so-blue;
+$footer-bg: $so-ink;
+$footer-fg: #c9ced3;
+$link-decoration: underline;
+
+/*-- scss:rules --*/
+
+// ---------- Fondations ----------
+
+h1, h2, h3, h4 {
+  letter-spacing: -0.01em;
+  text-wrap: balance;
+}
+
+h2 {
+  margin-top: 2.6rem;
+  padding-bottom: 0.35rem;
+  border-bottom: 3px solid $so-mist;
+}
+
+.navbar .navbar-brand img {
+  max-height: 40px;
+}
+
+// Étiquette monospace : reprend les petits intertitres gris de l'affiche
+.eyebrow {
+  font-family: "IBM Plex Mono", monospace;
+  font-size: 0.72rem;
+  font-weight: 500;
+  letter-spacing: 0.16em;
+  text-transform: uppercase;
+  color: $so-slate;
+  display: block;
+  margin-bottom: 0.6rem;
+}
+
+// ---------- Mosaïque d'accueil ----------
+
+
+.mosaique {
+  display: grid;
+  grid-template-columns: repeat(6, 1fr);
+  grid-auto-rows: minmax(150px, auto);
+  gap: 10px;
+  margin: 0 0 3rem;
+}
+
+.tuile {
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-end;
+  padding: 1.1rem 1.2rem;
+  border-radius: 3px;
+  box-shadow: 0 2px 5px rgba(0, 0, 0, 0.14);
+  overflow: hidden;
+  transition: transform 0.18s ease, box-shadow 0.18s ease;
+}
+
+.tuile:hover {
+  transform: translateY(-3px);
+  box-shadow: 0 6px 14px rgba(0, 0, 0, 0.18);
+}
+
+.tuile .eyebrow { color: inherit; opacity: 0.7; }
+.tuile p { margin-bottom: 0; }
+
+// Tuile 1 — le numéro d'édition
+.tuile-edition {
+  grid-column: span 2;
+  grid-row: span 2;
+  background: $so-ink;
+  color: $so-paper;
+  justify-content: center;
+}
+
+.tuile-edition .chiffre {
+  font-family: "Barlow Condensed", sans-serif;
+  font-weight: 700;
+  font-size: clamp(5.5rem, 13vw, 9.5rem);
+  line-height: 0.78;
+  margin: 0 0 0.4rem;
+}
+
+.tuile-edition .mention {
+  font-family: "Barlow Condensed", sans-serif;
+  font-size: 1.35rem;
+  font-weight: 500;
+  line-height: 1.15;
+  text-transform: uppercase;
+  letter-spacing: 0.02em;
+}
+
+// Tuile 2 — le thème, seul vrai titre de page
+.tuile-theme {
+  grid-column: span 2;
+  grid-row: span 2;
+  background: $so-blue;
+  color: $so-paper;
+  justify-content: center;
+}
+
+.tuile-theme h1 {
+  font-size: clamp(1.6rem, 2.9vw, 2.35rem);
+  font-weight: 600;
+  line-height: 1.08;
+  margin: 0;
+  color: $so-paper;
+}
+
+// Tuile 3 — l'affiche
+// object-fit: contain, sinon le recadrage supprime l'attribution CC BY.
+.tuile-affiche {
+  grid-column: span 2;
+  grid-row: span 2;
+  padding: 0;
+  background: $so-paper;
+}
+
+.tuile-affiche img {
+  width: 100%;
+  height: 100%;
+  object-fit: contain;
+  display: block;
+}
+
+// Tuiles d'information
+.tuile-info {
+  grid-column: span 2;
+  background: $so-mist;
+  color: $so-ink;
+}
+
+.tuile-info .valeur {
+  font-family: "Barlow Condensed", sans-serif;
+  font-size: 1.45rem;
+  font-weight: 600;
+  line-height: 1.15;
+}
+
+// Tuile action
+.tuile-action {
+  grid-column: span 1;
+  background: $so-orange;
+  color: $so-paper;
+  text-decoration: none;
+  justify-content: center;
+}
+
+.tuile-action:hover { color: $so-paper; }
+
+.tuile-action .valeur {
+  font-family: "Barlow Condensed", sans-serif;
+  font-size: 1.35rem;
+  font-weight: 600;
+  text-transform: uppercase;
+  line-height: 1.1;
+}
+
+.tuile-aplat { grid-column: span 1; background: $so-green; }
+
+@media (max-width: 991px) {
+  .mosaique { grid-template-columns: repeat(4, 1fr); }
+  .tuile-edition, .tuile-theme, .tuile-affiche { grid-column: span 2; }
+  .tuile-action { grid-column: span 4; }
+  .tuile-aplat { display: none; }
+}
+
+@media (max-width: 575px) {
+  .mosaique { grid-template-columns: repeat(2, 1fr); grid-auto-rows: minmax(120px, auto); }
+  .tuile-edition, .tuile-theme, .tuile-affiche, .tuile-info,
+  .tuile-action { grid-column: span 2; }
+  .tuile-affiche { grid-row: span 1; }
+}
+
+@media (prefers-reduced-motion: reduce) {
+  .tuile { transition: none; }
+  .tuile:hover { transform: none; }
+}
+
+// ---------- Programme ----------
+
+.creneau {
+  display: grid;
+  grid-template-columns: 7.5rem 1fr;
+  gap: 0 1.5rem;
+  padding: 1.1rem 0;
+  border-top: 1px solid $so-mist;
+  align-items: baseline;
+}
+
+.creneau .heure {
+  font-family: "IBM Plex Mono", monospace;
+  font-size: 0.9rem;
+  color: $so-blue;
+  white-space: nowrap;
+}
+
+.creneau .intitule { font-weight: 600; }
+.creneau .intervenant { color: $so-slate; font-size: 0.95rem; }
+
+@media (max-width: 575px) {
+  .creneau { grid-template-columns: 1fr; gap: 0.25rem; }
+}
+
+// ---------- Divers ----------
+
+.bouton-principal {
+  display: inline-block;
+  background: $so-orange;
+  color: $so-paper;
+  font-family: "Barlow Condensed", sans-serif;
+  font-size: 1.25rem;
+  font-weight: 600;
+  text-transform: uppercase;
+  letter-spacing: 0.03em;
+  text-decoration: none;
+  padding: 0.75rem 2rem;
+  border-radius: 3px;
+}
+
+.bouton-principal:hover { background: darken($so-orange, 8%); color: $so-paper; }
+
+a:focus-visible,
+.tuile-action:focus-visible,
+.bouton-principal:focus-visible {
+  outline: 3px solid $so-cyan;
+  outline-offset: 3px;
+}

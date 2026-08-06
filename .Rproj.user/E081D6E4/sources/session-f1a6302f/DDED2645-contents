@@ -1,0 +1,111 @@
+---
+title: "Programme"
+pagetitle: "Programme — SO-MATé 2026"
+---
+
+[Journées annuelles SO-MATé]{.eyebrow}
+
+::: {.callout-important title="Programme provisoire"}
+Ce programme est pour l'instant provisoire.
+:::
+
+## Jour 1 — Jeudi 05 novembre 2026
+
+```{=html}
+
+<div class="creneau">
+  <span class="heure">12h30</span>
+  <div>
+    <span class="intitule">Accueil des participant·es</span>
+  <span class="intervenant">Déjeuner</span>
+  </div>
+</div>
+
+<div class="creneau">
+  <span class="heure">14h00</span>
+  <div>
+    <span class="intitule">Atelier — titre à venir</span>
+  <span class="intervenant">Jean-Jacques</span>
+  </div>
+</div>
+
+<div class="creneau">
+  <span class="heure">16h00</span>
+  <div>
+    <span class="intitule">Atelier 2— titre à venir</span>
+  <span class="intervenant">Jean-Louis</span>
+  </div>
+</div>
+
+<div class="creneau">
+  <span class="heure">18h00</span>
+  <div>
+    <span class="intitule">Fin de la première journée</span>
+  </div>
+</div>
+
+<div class="creneau">
+  <span class="heure">19h30</span>
+  <div>
+    <span class="intitule">Diner dasn un endroit sympa</span>
+  <span class="intervenant">Jean-Guy</span>
+  </div>
+</div>
+
+```
+
+## Jour 2 — vendredi 06 novembre 2026
+
+```{=html}
+
+<div class="creneau">
+  <span class="heure">09h00</span>
+  <div>
+    <span class="intitule">Accueil des participant·es</span>
+  <span class="intervenant">Café</span>
+  </div>
+</div>
+
+<div class="creneau">
+  <span class="heure">9h30</span>
+  <div>
+    <span class="intitule">Atelier 3 — titre à venir</span>
+  <span class="intervenant">Jean-Michel</span>
+  </div>
+</div>
+
+<div class="creneau">
+  <span class="heure">12h00</span>
+  <div>
+    <span class="intitule">Synthèse et clôture</span>
+  <span class="intervenant">Comité d'organisation SO-MATé</span>
+  </div>
+</div>
+
+<div class="creneau">
+  <span class="heure">12h30</span>
+  <div>
+    <span class="intitule">Déjeuner</span>
+  <span class="intervenant">Jean-Phillipe</span>
+  </div>
+</div>
+
+<div class="creneau">
+  <span class="heure">14h00</span>
+  <div>
+    <span class="intitule">Formation Git</span>
+  <span class="intervenant">Jean-Paul</span>
+  </div>
+</div>
+
+<div class="creneau">
+  <span class="heure">16h30</span>
+  <div>
+    <span class="intitule">Fin des JA</span>
+  <span class="intervenant">Allez c'est CIAO !</span>
+  </div>
+</div>
+```
+
+
+
