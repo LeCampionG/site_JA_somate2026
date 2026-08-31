@@ -110,7 +110,7 @@ Ce programme est pour l'instant provisoire.
   <span class="heure">16h30</span>
   <div>
     <span class="intitule">Fin des JA</span>
-  <span class="intervenant">Allez c'est CIAO !</span>
+  <span class="intervenant"></span>
   </div>
 </div>
 ```
