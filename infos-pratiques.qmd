@@ -8,8 +8,7 @@ pagetitle: "Informations pratiques — SO-MATé 2026"
 
 ## Dates
 
-Les journées se tiendront les **jeudi 05 et vendredi 06 novembre 2026**, de 12h30 le premier
-jour pour l'acceuil des participant et le déjeuners jusqu'à 16h30 vendredi.
+Les journées se tiendront les **jeudi 05 et vendredi 06 novembre 2026**, de 12h30 le premier jour pour l'acceuil des participant et le déjeuners jusqu'à 16h30 vendredi.
 
 ## Lieu
 
@@ -42,13 +41,13 @@ Pour d'autre options et des information plus exhaustive concernant les lignes du
 
 ## Hébergement
 
-Quelques établissements proches du lieu des journées :
+Quelques établissements proches du lieu des journées, recensés dasn la plateforme GOELETT du CNRS:
 
-| Établissement | Distance | Indication de tarif |
+| Établissement | Distance | Indication de tarif par nuit |
 |---|---|---|
-| [Nom] | [X min à pied] | [XX €] |
-| [Nom] | [X min en tram] | [XX €] |
-| [Nom] | [X min à pied] | [XX €] |
+| Ténéo Apparthotel Talence Espeleta - Bordeaux Sud | 15 min tram | 86 € |
+| Nemea Appart Hotel Bordeaux Pessac | 15 min à pied | 90 € |
+| ibis Bordeaux Centre Meriadeck  | 35 min tram | 120 € |
 
 ## Restauration
 
