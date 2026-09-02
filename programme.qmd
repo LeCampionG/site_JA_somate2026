@@ -6,7 +6,7 @@ pagetitle: "Programme — SO-MATé 2026"
 [Journées annuelles SO-MATé]{.eyebrow}
 
 ::: {.callout-important title="Programme provisoire"}
-Ce programme est pour l'instant provisoire.
+Ce programme est pour l'instant provisoire, le titre des interventions, l'ordre de passage ou l'heure précise de début des ateliers est encore suceptible d'évoluer. Merci de votre compréhension.
 :::
 
 ## Jour 1 — Jeudi 05 novembre 2026
@@ -14,15 +14,19 @@ Ce programme est pour l'instant provisoire.
 ```{=html}
 
 <div class="creneau">
-  <span class="heure">12h30</span>
+  <span class="heure">13h30</span>
   <div>
-    <span class="intitule">Accueil des participant·es</span>
-  <span class="intervenant">Déjeuner</span>
+    <span class="intitule">Accueil café des participant·es</span>
+  <span class="intervenant"></span>
   </div>
 </div>
+```
 
+### Atelier 1 : L'ouverture des données
+
+```{=html}
 <div class="creneau">
-  <span class="heure">14h00</span>
+  <span class="heure">14h00 - 15h30</span>
   <div>
     <span class="intitule"> "Les enjeux d'ouverture des données qualitatives"</span>
   <span class="intervenant">Sophie Duchesne</span>
@@ -30,7 +34,7 @@ Ce programme est pour l'instant provisoire.
 </div>
 
 <div class="creneau">
-  <span class="heure">16h00</span>
+  <span class="heure">15h30-17h00</span>
   <div>
     <span class="intitule">"Coût ouverture données PanelVico"</span>
   <span class="intervenant">Laurine Thizy</span>
@@ -38,7 +42,7 @@ Ce programme est pour l'instant provisoire.
 </div>
 
 <div class="creneau">
-  <span class="heure">18h00</span>
+  <span class="heure">17h30</span>
   <div>
     <span class="intitule">Fin de la première journée</span>
   </div>
