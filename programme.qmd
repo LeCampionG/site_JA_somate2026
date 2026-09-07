@@ -6,7 +6,7 @@ pagetitle: "Programme — SO-MATé 2026"
 [Journées annuelles SO-MATé]{.eyebrow}
 
 ::: {.callout-important title="Programme provisoire"}
-Ce programme est pour l'instant provisoire, le titre des interventions, l'ordre de passage ou l'heure précise de début des ateliers est encore suceptible d'évoluer. Merci de votre compréhension.
+Ce programme est pour l'instant provisoire, le titre des interventions, l'ordre de passage ou l'heure précise de début des ateliers est encore susceptible d'évoluer. Merci de votre compréhension.
 :::
 
 ## Jour 1 — Jeudi 05 novembre 2026
@@ -17,19 +17,19 @@ Ce programme est pour l'instant provisoire, le titre des interventions, l'ordre 
   <span class="heure">13h30</span>
   <div>
     <span class="intitule">Accueil café des participant·es</span>
-  <span class="intervenant"></span>
+  <span class="intervenant"> En salle Camus (B230) </span>
   </div>
 </div>
 ```
 
-### Atelier 1 : L'ouverture des données
+#### Atelier 1 : L'ouverture des données
 
 ```{=html}
 <div class="creneau">
   <span class="heure">14h00 - 15h30</span>
   <div>
     <span class="intitule"> "Les enjeux d'ouverture des données qualitatives"</span>
-  <span class="intervenant">Sophie Duchesne</span>
+  <span class="intervenant">Sophie Duchesne - En salle Camus (B230)</span>
   </div>
 </div>
 
@@ -37,16 +37,16 @@ Ce programme est pour l'instant provisoire, le titre des interventions, l'ordre 
   <span class="heure">15h30-17h00</span>
   <div>
     <span class="intitule">"Coût ouverture données PanelVico"</span>
-  <span class="intervenant">Laurine Thizy</span>
+  <span class="intervenant">Laurine Thizy - En salle Camus (B230)</span>
   </div>
 </div>
 ```
 
-### Fin de la première journée
+#### Fin de la première journée
 
 ```{=html}
 <div class="creneau">
-  <span class="heure">17h30</span>
+  <span class="heure">17h30 - 19h</span>
   <div>
     <span class="intitule">Apéritif</span>
   <span class="intervenant">Atrium IEP Bordeaux</span>
@@ -56,8 +56,8 @@ Ce programme est pour l'instant provisoire, le titre des interventions, l'ordre 
 <div class="creneau">
   <span class="heure">19h30</span>
   <div>
-    <span class="intitule">Diner</span>
-  <span class="intervenant">Un endroit très sympa !</span>
+    <span class="intitule">Soirée</span>
+  <span class="intervenant">Dans Un endroit très sympa !</span>
   </div>
 </div>
 
@@ -71,19 +71,19 @@ Ce programme est pour l'instant provisoire, le titre des interventions, l'ordre 
   <span class="heure">08h30 - 09h00</span>
   <div>
     <span class="intitule">Accueil café des participant·es</span>
-  <span class="intervenant"></span>
+  <span class="intervenant">En salle Camus (B230)</span>
   </div>
 </div>
 ```
 
-### Atelier 2 : Les couts cachés du libre et de la science ouverte et les enjeux logiciels liés
+#### Atelier 2 : Les couts cachés du libre et de la science ouverte et les enjeux logiciels liés
 
 ```{=html}
 <div class="creneau">
   <span class="heure">9h00-10h30</span>
   <div>
     <span class="intitule">Titre à venir</span>
-  <span class="intervenant">DOS - Thomas Bottini et Régis Witz</span>
+  <span class="intervenant">DOS - Thomas Bottini et Régis Witz - En salle Camus (B230)</span>
   </div>
 </div>
 
@@ -91,7 +91,7 @@ Ce programme est pour l'instant provisoire, le titre des interventions, l'ordre 
   <span class="heure">10h30-12h00</span>
   <div>
     <span class="intitule">Titre à venir</span>
-  <span class="intervenant">Joseph Barbier</span>
+  <span class="intervenant">Joseph Barbier - En salle Camus (B230)</span>
   </div>
 </div>
 
@@ -99,30 +99,32 @@ Ce programme est pour l'instant provisoire, le titre des interventions, l'ordre 
   <span class="heure"12h00</span>
   <div>
     <span class="intitule">Synthèse</span>
-  <span class="intervenant">Comité d'organisation SO-MATé</span>
+  <span class="intervenant">Comité d'organisation SO-MATé - En salle Camus (B230)</span>
   </div>
 </div>
 ```
 
-### Atelier 3: Les couts cachés du libre et de la science ouverte : Initiation GIT
-
-
+#### Déjeuner
 
 ```{=html}
 <div class="creneau">
   <span class="heure">12h30</span>
   <div>
-    <span class="intitule">Déjeuner</span>
-  <span class="intervenant">Buffet IEP Bordeaux</span>
+    <span class="intitule">Buffet</span>
+  <span class="intervenant">En salle A116</span>
   </div>
 </div>
+```
+
+#### Atelier 3: Les couts cachés du libre et de la science ouverte : Initiation GIT
 
 
+```{=html}
 <div class="creneau">
   <span class="heure">14h00</span>
   <div>
     <span class="intitule">Formation Git</span>
-  <span class="intervenant"></span>
+  <span class="intervenant">Séance en salle Camus (B230)</span>
   </div>
 </div>
 
