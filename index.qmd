@@ -37,7 +37,10 @@ toc: false
     <span class="valeur">S'inscrire</span>
   </a>
 
-  <div class="tuile tuile-aplat" aria-hidden="true"></div>
+  <div class="tuile tuile-aplat" aria-hidden="true">
+    <img src="images/risk_mate.jpg"
+         alt="Carte So-MATE">
+  </div>
 
 </div>
 ```
