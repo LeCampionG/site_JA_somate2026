@@ -80,18 +80,18 @@ Ce programme est pour l'instant provisoire, le titre des interventions, l'ordre 
 
 ```{=html}
 <div class="creneau">
-  <span class="heure">9h00-10h30</span>
+  <span class="heure">9h00-10h00</span>
   <div>
     <span class="intitule">Titre à venir</span>
-  <span class="intervenant">DOS - Thomas Bottini et Régis Witz - En salle Camus (B230)</span>
+  <span class="intervenant">Joseph Barbier - En salle Camus (B230)</span>
   </div>
 </div>
 
 <div class="creneau">
   <span class="heure">10h30-12h00</span>
   <div>
-    <span class="intitule">Titre à venir</span>
-  <span class="intervenant">Joseph Barbier - En salle Camus (B230)</span>
+    <span class="intitule">Table ronde titre à venir</span>
+  <span class="intervenant">DOS - Thomas Bottini et Régis Witz et Joseph Barbier - En salle Camus (B230)</span>
   </div>
 </div>
 
