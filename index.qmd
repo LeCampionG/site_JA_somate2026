@@ -51,18 +51,13 @@ toc: false
 
 ## Le thème
 
-Le libre et l'open science sont gratuits pour celui qui les consomme... jamais pour
-celui qui les produit ou les maintient. Ces journées proposent de rendre visibles
-les coûts que les discours d'ouverture laissent souvent dans l'ombre : temps de création, et de production, la maintenance des outils, la montée en compétences, la dette technique, la  charge de documentation, la dépendance à des communautés bénévoles, les effets de report sur les métiers de support à la recherche, etc.
+Le libre et l'open science sont gratuits pour celui qui les consomme... jamais pour celui qui les produit ou les maintient. Ces journées proposent de rendre visibles les coûts que les discours d'ouverture laissent souvent dans l'ombre : temps de création et de production, maintenance des outils, montée en compétences, dette technique, charge de documentation, dépendance à des communautés bénévoles, effets de report sur les métiers de support à la recherche, etc.
 
 ::: {.callout-note title="Meta verse..."}
-Pour initier ces journée dés à présent une petite ironie mérite d'être dite franchement ! Pour des journées intitulées « le coût caché du libre et de l'open science », le site est hébergé sur une plateforme propriétaire appartenant à Microsoft...
+Pour initier ces journées, une petite ironie mérite dès à présent d'être dite franchement : pour des journées intitulées « le coût caché du libre et de l'open science », le site est hébergé sur une plateforme propriétaire appartenant à Microsoft...
 :::
 
 ## Le réseau SO-MATé
 
 SO-MATé est la déclinaison Grand Sud-Ouest du réseau métier
-[MATE-SHS](https://mate-shs.cnrs.fr/){target="_blank"} (Méthodes, Analyses, Terrains, Enquêtes en sciences humaines et sociales). Il rassemble une cinquantaine de membres à
-Bordeaux, Brest, Clermont-Ferrand, Limoges, Nantes, Montpellier, Pau, Poitiers, Rennes
-et Toulouse, autour d'un objectif simple : partager des pratiques de recherche
-et échanger sur nos métiers.
+[MATE-SHS](https://mate-shs.cnrs.fr/){target="_blank"} (Méthodes, Analyses, Terrains, Enquêtes en sciences humaines et sociales). Il rassemble une cinquantaine de membres à Bordeaux, Brest, Clermont-Ferrand, Limoges, Nantes, Montpellier, Pau, Poitiers, Rennes et Toulouse, autour d'un objectif simple : partager des pratiques de recherche et échanger sur nos métiers.
