@@ -8,7 +8,7 @@ pagetitle: "Informations pratiques — SO-MATé 2026"
 
 ## Dates
 
-Les journées se tiendront les **jeudi 05 et vendredi 06 novembre 2026**, de 12h30 le premier jour pour l'acceuil des participant et le déjeuners jusqu'à 16h30 vendredi.
+Les journées se tiendront les **jeudi 05 et vendredi 06 novembre 2026**, de 13h30 le premier jour pour l'acceuil des participants jusqu'à 16h30 vendredi.
 
 ## Lieu
 
@@ -23,25 +23,24 @@ Domaine universitaire\
 
 **En tram** - Prendre la Ligne B direction Pessac centre. Descendre à l’arrêt Montaigne-Montesquieu. Sciences Po Bordeaux est sur votre droite, en traversant l’esplanade boisée à la sortie du tramway.
 
-**En bus** - Depuis la gare Bordeaux St Jean, prendre la liane 10 direction Beausoleil. Descendre à l’arrêt Montaigne-Montesquieu, Sciences Po Bordeaux se situe à une centaine de mètres de l’arrêt de bus. Pour y accéder : franchir la ligne de tramway. Le bâtiment se situe derrière une rangée d’arbres.
+**En bus** - Depuis la gare Bordeaux St Jean (hall 3), prendre la ligne 31 direction Beausoleil. Descendre à l’arrêt Montaigne-Montesquieu, Sciences Po Bordeaux se situe à une centaine de mètres de l’arrêt de bus. Pour y accéder : franchir la ligne de tramway. Le bâtiment se situe derrière une rangée d’arbres.
 
 **En vélo !!!** — Stationnement vélo disponible, présence d'arceaux.
 
-**En train** — Gare Saint-Jean, puis marcher jusqu'à la Victoire et prendre ligne tram B ou à la gare prendre liane 10 direction Beausoleil. Comptez bien 40/45 minutes depuis la gare.
+**En train** — Gare Saint-Jean, puis marcher jusqu'à la Victoire et prendre ligne tram B ou à la gare prendre liane 31 direction Beausoleil. Comptez bien 40/45 minutes depuis la gare.
 
-**En voiture** — De la Rocade A630/E05/E70, prendre la sortie 16 dir. Gradignan-centre/Talence-centre/Domaine universitaire. Suivre la direction Talence sur le cours de la Libération. Au 3e feu, tourner à gauche sur l’avenue Pey-Berland. Continuer sur l’avenue Pey-Berland (traversez la voie du tramway) jusqu’au rond-point où vous prendrez
-l’avenue Léon Duguit. Continuez sur 300 mètres : Sciences Po Bordeaux se trouve sur votre gauche. N'hésitez pas à covoiturer !
+**En voiture** — De la Rocade A630/E05/E70, prendre la sortie 16 dir. Gradignan-centre/Talence-centre/Domaine universitaire. Suivre la direction Talence sur le cours de la Libération. Au 3e feu, tourner à gauche sur l’avenue Pey-Berland. Continuer sur l’avenue Pey-Berland (traversez la voie du tramway) jusqu’au rond-point où vous prendrez l’avenue Léon Duguit. Continuez sur 300 mètres : Sciences Po Bordeaux se trouve sur votre gauche. N'hésitez pas à covoiturer !
 
 
 ::: {.callout-note title="Autres transports"}
 Désolé il n'y a pas d'héliport vous ne pourrez donc pas venir en hélicoptère.
-Pour d'autre options et des information plus exhaustive concernant les lignes du bus voici un lien vers [Moovit](https://moovitapp.com/index/fr/transport_en_commun-Sciences_Po_Sud_Ouest-Bordeaux-site_39768570-924){target="_blank"}
+Pour d'autres options et des informations plus exhaustives concernant les lignes du bus voici un lien vers [Moovit](https://moovitapp.com/index/fr/transport_en_commun-Sciences_Po_Sud_Ouest-Bordeaux-site_39768570-924){target="_blank"}
 :::
 
 
 ## Hébergement
 
-Quelques établissements proches du lieu des journées, recensés dasn la plateforme GOELETT du CNRS:
+Quelques établissements proches du lieu des journées, recensés dans la plateforme GOELETT du CNRS :
 
 | Établissement | Distance | Indication de tarif par nuit |
 |---|---|---|
@@ -51,21 +50,20 @@ Quelques établissements proches du lieu des journées, recensés dasn la platef
 
 
 ::: {.callout-note title="Alternative pas tout à fait dans GOELETT"}
-Dans le cas où vous vous seriez en très bon termes avec votre gestionnaire, vous pouvez aussi opter pour l'Intercontinental Grand hotel de Bordeaux, à 30 minutes en tram.
-La junior suite vue Opéra à l'air très sympa pour 940€/nuit, sinon la suite royal peut s'avérer un choix intéressant dans le cas où il faudrait vider les caisses de votre unité, que vous pourrez réserver pour la modique somme de 3600€/nuit.
+Dans le cas où vous seriez en très bon termes avec votre gestionnaire, vous pouvez aussi opter pour l'Intercontinental Grand hotel de Bordeaux, à 30 minutes en tram.
+La junior suite vue Opéra à l'air très sympa pour 940€/nuit, sinon la suite royale peut s'avérer un choix intéressant dans le cas où il faudrait vider les caisses de votre unité, que vous pourrez réserver pour la modique somme de 3600€/nuit.
 :::
 
 ## Restauration
 
-Les JA débuteront à 14h le jeudi 05 novembre, le déjeuners du jeudi n'est donc pas pris en charge, mais il y aura un acceuil café à partir de 13h30. En revanche, le jeudi soir ainsi que le déjeuner du vendredi sont pris en charge par le réseau et prendront la forme d'un buffet. Merci de signaler si vous souhaitez y participer ainsi que tout régime alimentaire particulier au moment de l'inscription.
+Les JA débuteront à 14h le jeudi 05 novembre, le déjeuner du jeudi n'est donc pas pris en charge, mais il y aura un acceuil café à partir de 13h30. En revanche, le jeudi soir ainsi que le déjeuner du vendredi sont pris en charge par le réseau et prendront la forme d'un buffet. Merci de signaler si vous souhaitez y participer ainsi que tout régime alimentaire particulier au moment de l'inscription.
 
 Le buffet du jeudi soir sera organisé dans l'atrium de l'IEP, la suite de la soirée sera à la charge des participants, merci de préciser également si vous y participerez lors de l'inscription.
 
 ## Prise en charge des frais de mission
 
-SO-MATé ne prendra en charge que les missions des intervenants. Les modalités de
-prise en charge des frais de déplacement et d'hébergement des participant sont à la charge de leur laboratoire d'appartenance.
-EN cas de problème de financement n'hésitez pas à contacter l'organisation à [coord-so-mate@groupes.renater.fr](mailto:coord-so-mate@groupes.renater.fr), nous ferons au mieux pour aider mais cela ne pourra se faire qu'au cas par cas.
+SO-MATé ne prendra en charge que les missions des intervenants. Les modalités de prise en charge des frais de déplacement et d'hébergement des participants sont à la charge de leur laboratoire d'appartenance.
+En cas de problème de financement n'hésitez pas à contacter l'organisation à [coord-so-mate@groupes.renater.fr](mailto:coord-so-mate@groupes.renater.fr), nous ferons au mieux pour aider mais cela ne pourra se faire qu'au cas par cas.
 
 
 ## Contact
