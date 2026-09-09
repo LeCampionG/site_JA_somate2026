@@ -37,10 +37,11 @@ toc: false
     <span class="valeur">S'inscrire</span>
   </a>
 
-  <div class="tuile tuile-aplat" aria-hidden="true">
-    <img src="images/risk_mate.jpg"
-         alt="Carte So-MATE">
-  </div>
+<a class="tuile tuile-aplat" href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"
+   target="_blank" rel="noopener">
+  <img src="images/risk_mate.jpg"
+       alt="Voir la stratégie derrière la carte So-Mate">
+</a>
 
 </div>
 ```
