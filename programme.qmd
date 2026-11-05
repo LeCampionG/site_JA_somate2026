@@ -43,7 +43,7 @@ Ce programme est pour l'instant provisoire, le titre des interventions, l'ordre 
 
 
 <div class="creneau">
-  <span class="heure"16h00</span>
+  <span class="heure">16h00</span>
   <div>
     <span class="intitule">"Vie du réseau"</span>
   <span class="intervenant">Comité d'organisation SO-MATé - En salle Camus (B230)</span>
