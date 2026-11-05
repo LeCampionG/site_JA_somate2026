@@ -100,7 +100,7 @@ Ce programme est pour l'instant provisoire, le titre des interventions, l'ordre 
 <div class="creneau">
   <span class="heure">10h30-12h00</span>
   <div>
-    <span class="intitule">Table ronde titre à venir</span>
+    <span class="intitule">Table ronde</span>
   <span class="intervenant">DOS - Thomas Bottini et Régis Witz et Joseph Barbier - En salle Camus (B230)</span>
   </div>
 </div>
