@@ -1,6 +1,6 @@
 ---
 title: "Programme"
-pagetitle: "Programme — SO-MATé 2026"
+pagetitle: "Programme - SO-MATé 2026"
 ---
 
 [Journées annuelles SO-MATé]{.eyebrow}
@@ -9,7 +9,7 @@ pagetitle: "Programme — SO-MATé 2026"
 Ce programme est pour l'instant provisoire, le titre des interventions, l'ordre de passage ou l'heure précise de début des ateliers est encore susceptible d'évoluer. Merci de votre compréhension.
 :::
 
-## Jour 1 — Jeudi 05 novembre 2026
+## Jour 1 - Jeudi 05 novembre 2026
 
 ```{=html}
 
@@ -73,7 +73,7 @@ Ce programme est pour l'instant provisoire, le titre des interventions, l'ordre 
 
 ```
 
-## Jour 2 — vendredi 06 novembre 2026
+## Jour 2 - vendredi 06 novembre 2026
 
 ```{=html}
 
@@ -120,7 +120,7 @@ Ce programme est pour l'instant provisoire, le titre des interventions, l'ordre 
 </div>
 ```
 
-#### Atelier 3: Les couts cachés du libre et de la science ouverte : Initiation GIT
+#### Atelier 3: Les couts cachés du libre et de la science ouverte - Initiation GIT
 
 
 ```{=html}
