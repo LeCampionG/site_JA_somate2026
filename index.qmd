@@ -1,6 +1,6 @@
 ---
 title: ""
-pagetitle: "SO-MATé 2026 — Le coût caché du libre et de l'open science"
+pagetitle: "SO-MATé 2026 - Le coût caché du libre et de l'open science"
 toc: false
 ---
 
