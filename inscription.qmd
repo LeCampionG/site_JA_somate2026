@@ -1,6 +1,6 @@
 ---
 title: "Inscription"
-pagetitle: "Inscription — SO-MATé 2026"
+pagetitle: "Inscription - SO-MATé 2026"
 ---
 
 [Participation gratuite, places limitées]{.eyebrow}
@@ -15,7 +15,7 @@ Pour exercer vos droits vis-à-vis du RGPD : [coord-so-mate@groupes.renater.fr](
 L'inscription est gratuite et obligatoire, y compris pour les membres du réseau.
 Elle se clôture le **05/10/2026 12h00**. Inscrivez-vous rapidement : malheureusement nous disposons d'un nombre de places limitées, seront privilégiés les membres du réseau puis les premiers inscrits.
 
-[Ouvrir le formulaire d'inscription](http://enquetes-passages.huma-num.fr/index.php?r=survey/index&sid=979689&lang=fr ){.bouton-principal target="_blank"}
+[Ouvrir le formulaire d'inscription](https://enquetes-passages.huma-num.fr/index.php/979689?lang=fr  ){.bouton-principal target="_blank"}
 
 ## Ce qui vous sera demandé
 
