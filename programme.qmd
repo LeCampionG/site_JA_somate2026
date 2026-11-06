@@ -11,6 +11,7 @@ Ce programme est pour l'instant provisoire, le titre des interventions, l'ordre 
 
 ## Jour 1 - Jeudi 05 novembre 2026
 
+
 ```{=html}
 
 <div class="creneau">
@@ -23,6 +24,8 @@ Ce programme est pour l'instant provisoire, le titre des interventions, l'ordre 
 ```
 
 #### Atelier 1 : L'ouverture des données
+
+[LIEN DE PRESENTATION LAURINE THIZY](){target="_blank"}
 
 ```{=html}
 <div class="creneau">
