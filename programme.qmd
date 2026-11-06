@@ -25,7 +25,7 @@ Ce programme est pour l'instant provisoire, le titre des interventions, l'ordre 
 
 #### Atelier 1 : L'ouverture des données
 
-[LIEN DE PRESENTATION LAURINE THIZY](){target="_blank"}
+[LIEN DE PRESENTATION LAURINE THIZY](https://github.com/LeCampionG/site_JA_somate2026/blob/main/THIZY_Cout_cachee_science_ouverte.pdf){target="_blank"}
 
 ```{=html}
 <div class="creneau">
